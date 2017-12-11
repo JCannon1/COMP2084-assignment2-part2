@@ -1,0 +1,128 @@
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\ApplicationInsights.config
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\csc.exe
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.dll.config
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.pdb
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Owin.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\EntityFramework.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.pdb
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\EntityFramework.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.csprojResolveAssemblyReference.cache
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.dll
+c:\users\jesse cannon\documents\visual studio 2015\Projects\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.pdb
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.dll.config
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.Tests.pdb
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Owin.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Assignment2.pdb
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.dll
+C:\Users\Jesse Cannon\Desktop\Assignment2\Assignment2.Tests\obj\Debug\Assignment2.Tests.pdb
